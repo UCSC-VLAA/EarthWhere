@@ -1,6 +1,6 @@
 # WhereOnEarth
 
-|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/WhereBench) | [**📖 Paper**](https://github.com/UCSC-VLAA/WhereBench/edit/main/README.md) |
+|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/WhereBench) | [**📖 Paper**](https://github.com/UCSC-VLAA/WhereOnEarth/edit/main/README.md) |
 
 
 ## Introduction
