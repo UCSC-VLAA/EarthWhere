@@ -1,20 +1,20 @@
-# WhereBench
+# WhereOnEarth
 
-|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/WhereBench) | [**📖 Paper**](https://github.com/Batwho/WhereBench/edit/main/README.md) |
+|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/WhereBench) | [**📖 Paper**](https://github.com/UCSC-VLAA/WhereBench/edit/main/README.md) |
 
 
 ## Introduction
-WhereBench is a vision–language benchmark for image geolocation that probes not only what models predict, but how they reason. It spans 810 globally distributed images across two complementary tasks—WhereCountry (500 multiple-choice, country-level items with panoramas) and WhereStreet (310 street-level, open-world cases that can involve multi-step reasoning and optional web search). We evaluate both coordinate accuracy (Acc@k) and hierarchical textual localization to reflect the granularity a model correctly identifies, offering a clear view of end performance and partial progress along the path to the answer.
+WhereOnEarth is a vision–language benchmark for image geolocation that probes not only what models predict, but how they reason. It spans 810 globally distributed images across two complementary tasks—WhereCountry (500 multiple-choice, country-level items with panoramas) and WhereStreet (310 street-level, open-world cases that can involve multi-step reasoning and optional web search). We evaluate both coordinate accuracy (Acc@k) and hierarchical textual localization to reflect the granularity a model correctly identifies, offering a clear view of end performance and partial progress along the path to the answer.
 
 
-Our benchmark includes human-verified key-clue annotations and a process-aware evaluation: a Shapley-reweighted thinking score that attributes credit by each clue’s marginal contribution. We evaluated 13 leading VLMs, and the best model Gemini-2.5-pro achieves only a 56.32% overall performance, with 6.37% and 26.38% on the challenging subset. We surface practical insights—e.g., deeper deliberation and retrieval don’t always help at the country level, while web access tends to help on richer, street-level cases; models also show regional bias across sources. We aim for WhereBench to serve as a clear target with standardized protocols that facilitate fair comparison, drive sustained progress, and clarify how VLMs and agents reason with images and leverage web evidence.
+Our benchmark includes human-verified key-clue annotations and a process-aware evaluation: a Shapley-reweighted thinking score that attributes credit by each clue’s marginal contribution. We evaluated 13 leading VLMs, and the best model Gemini-2.5-pro achieves only a 56.32% overall performance, with 6.37% and 26.38% on the challenging subset. We surface practical insights—e.g., deeper deliberation and retrieval don’t always help at the country level, while web access tends to help on richer, street-level cases; models also show regional bias across sources. We aim for WhereOnEarth to serve as a clear target with standardized protocols that facilitate fair comparison, drive sustained progress, and clarify how VLMs and agents reason with images and leverage web evidence.
 
 
-![WhereBench inference overview](asset/illustration_figure.png)
+![WhereOnEarth inference overview](asset/illustration_figure.png)
 
 
 ## Dataset Creation
-WhereBench was created to provide language models with a more challenging and robust benchmark, pushing the boundaries of what these models can achieve in terms of expert-level knowledge and reasoning. Please refer to our paper[**📖 Paper**]() for more details.
+WhereOnEarth was created to provide language models with a more challenging and robust benchmark, pushing the boundaries of what these models can achieve in terms of expert-level knowledge and reasoning. Please refer to our paper[**📖 Paper**]() for more details.
 
 
 ## Evaluation
