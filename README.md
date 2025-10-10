@@ -33,6 +33,13 @@ cd wherestreet
 sh eval_street.sh
 ```
 
+To evaluate both subtasks, directly run:
+```bash
+
+sh eval_all.sh
+```
+The output will be saved in `results/overall/`
+
 ## 🏆 Overall Performance
 
 | Model                     | Overall Accuracy |
