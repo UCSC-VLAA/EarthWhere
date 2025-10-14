@@ -1,6 +1,6 @@
 # EarthWhere
 
-|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/EarthWhere) | [**📖 Paper**](https://github.com/UCSC-VLAA/EarthWhere/main/README.md) |
+|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/EarthWhere) | [**📖 Paper**](https://arxiv.org/abs/2510.10880) |
 
 
 ## Introduction
@@ -14,7 +14,7 @@ Our benchmark includes human-verified key-clue annotations and a process-aware e
 
 
 ## Dataset Creation
-EarthWhere was created to provide language models with a more challenging and robust benchmark, pushing the boundaries of what these models can achieve in terms of expert-level knowledge and reasoning. Please refer to our paper[**📖 Paper**]() for more details.
+EarthWhere was created to provide language models with a more challenging and robust benchmark, pushing the boundaries of what these models can achieve in terms of expert-level knowledge and reasoning. Please refer to our paper[**📖 Paper**](https://arxiv.org/abs/2510.10880) for more details.
 
 
 ## Evaluation
@@ -61,7 +61,7 @@ The output will be saved in `results/overall/`.
 | Claude 4 Sonnet           |       24.11      |
 | Skywork-R1V3              |       18.50      |
 
-For more details on various models and their accuracy across different subsets, please visit our [**paper**]().
+For more details on various models and their accuracy across different subsets, please visit our [**paper**](https://arxiv.org/abs/2510.10880).
 
 
 Special thanks to GeoPeter ([YouTube channel](https://www.youtube.com/GeoPeter)) for generously allowing us to evaluate using footage from his videos.
