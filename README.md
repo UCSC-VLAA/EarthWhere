@@ -18,15 +18,15 @@ EarthWhere was created to provide language models with a more challenging and ro
 
 
 ## Evaluation
-
-To run local inference on WhereCountry, modify the model name in the following script and execute it:
+A sample code of using Gemini with its results are provided.
+To run local inference on WhereCountry, modify the sample code and execute it:
 
 ```bash
 cd wherecountry
 sh eval_country.sh
 ```
 
-To run local inference on WhereStreet, modify the model name in the following script and execute it:
+To run local inference on WhereStreet, modify the sample code and execute it:
 
 ```bash
 cd wherestreet
@@ -38,7 +38,7 @@ To evaluate both subtasks, directly run:
 
 sh eval_all.sh
 ```
-The output will be saved in `results/overall/`
+The output will be saved in `results/overall/`. 
 
 ## 🏆 Overall Performance
 
