@@ -1,4 +1,5 @@
-# EarthWhere
+# Where on Earth? A Vision-Language Benchmark for Probing Model Geolocation Skills Across Scales
+
 
 |[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/EarthWhere) | [**📖 Paper**](https://arxiv.org/abs/2510.10880) |
 
