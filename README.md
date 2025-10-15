@@ -1,7 +1,14 @@
 # Where on Earth? A Vision-Language Benchmark for Probing Model Geolocation Skills Across Scales
 
+<p align="center">
+  <img src="./assets/ar.svg" alt="Arxiv Logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+  <a href="https://arxiv.org/abs/2510.10880" target="_blank">Arxiv</a>  
+  • 💻 <a href="https://github.com/UCSC-VLAA/EarthWhere" target="_blank">Code</a>  
+  • <img src="./assets/hg.svg" alt="Hugging Face Logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+  <a href="https://huggingface.co/datasets/tonyqian/EarthWhere" target="_blank">Dataset</a>  
+</p>
 
-|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/EarthWhere) | [**📖 Paper**](https://arxiv.org/abs/2510.10880) |
+<!---|[**🤗 Dataset**](https://huggingface.co/datasets/tonyqian/EarthWhere) | [**📖 Paper**](https://arxiv.org/abs/2510.10880) |--->
 
 
 ## Introduction
