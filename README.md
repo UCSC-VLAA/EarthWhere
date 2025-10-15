@@ -22,7 +22,7 @@ We evaluate both **coordinate accuracy (Acc@k)** and **hierarchical textual loca
 Our benchmark includes **human-verified key-clue annotations** and a **process-aware evaluation**: a Shapley-reweighted thinking score that attributes credit by each clue’s marginal contribution. We evaluated 13 leading VLMs, and the best model Gemini-2.5-pro achieves only a 56.32% overall performance, with 6.37% and 26.38% on the challenging subset. We surface practical insights—e.g., deeper deliberation and retrieval don’t always help at the country level, while web access tends to help on richer, street-level cases; models also show regional bias across sources. We aim for WhereOnEarth to serve as a clear target with standardized protocols that facilitate fair comparison, drive sustained progress, and clarify how VLMs and agents reason with images and leverage web evidence.
 
 
-![EarthWhere inference overview](asset/illustration_figure.png)
+![EarthWhere inference overview](assets/illustration_figure.png)
 
 
 ## Dataset Creation
