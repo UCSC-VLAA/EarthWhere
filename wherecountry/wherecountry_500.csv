@@ -1,0 +1,501 @@
+nation,panoID,options,answer-type
+Vatican,CAoSLEFGMVFpcE95NmZiRjA1MWZXNDk1Q2tuNVJMd0pndVpGUV9Db0FZMkJTS21u,"['Italy', 'San Marino', 'Monaco']",country
+Portugal,OC7wNOoNM79aK0JfB5-L5Q,"['Spain', 'Morocco', 'France']",country
+Serbia,fRlOCIlcGeL75dzrP_OjMg,"['Hungary', 'Romania', 'Bulgaria']",country
+Senegal,G4Y7YqWRUAJd55qHI8cOyA,"['Guinea', 'Mauritania', 'Mali']",country
+Italy,aqGdZ15BhPbdALuCQ4lZrg,"['France', 'Switzerland', 'Austria']",country
+Namibia,CAoSLEFGMVFpcE5ZaDFrTG03Q05DZlBHeDFtQTUyZlRmQlVIODNITDlpaktpaTQ3,"['South Africa', 'Botswana', 'Angola']",country
+U.K.,CAoSLEFGMVFpcFB1OHJmNjFpZUU4ekx2Tnh5ZV9HUWI5M3R3ZVczMU5scTMtcWdf,"['France', 'Netherlands', 'Ireland']",country
+Chile,qP9UitkXsYV9dtkg_BOrVg,"['Argentina', 'Bolivia', 'Peru']",country
+Afghanistan,CAoSLEFGMVFpcE84aHhMWmRJTWVPM19nckthS0dIX3N1WWdtNnZuYjdwV042M215,"['Pakistan', 'Tajikistan', 'Iran']",country
+Guatemala,c3gfHS9-VvcyU9CVA1u_qA,"['Mexico', 'Belize', 'El Salvador']",country
+France,sLdJFpKNxsxcAaxVRK8V3Q,"['Belgium', 'Luxembourg', 'Spain']",country
+Norway,ST04M1u3MLcwtNojEOYM7w,"['Sweden', 'Finland', 'Russia']",country
+Laos,0nbomZpmNGeYp0wFPg8lnw,"['Thailand', 'Vietnam', 'Cambodia']",country
+France,1Z18q7CeDEXVyEtW9bAa5g,"['Spain', 'Luxembourg', 'Belgium']",country
+Senegal,0Qlz08QUdvhtmQ4F7sfc6g,"['Mauritania', 'Mali', 'Guinea']",country
+Russia,hRdwVwPxpFb_C84G7HRn8Q,"['China', 'Mongolia', 'Kazakhstan']",country
+Guinea,CAoSLEFGMVFpcFA0alVTZzhMWVBOVlQ1Uk5MMmpOaUY4RnVQSHB0NURmN1BOWGha,"['Senegal', 'Sierra Leone', 'Liberia']",country
+Cambodia,KBE1YmJ5VzntEIlHvab-Qw,"['Vietnam', 'Thailand', 'Laos']",country
+Tunisia,el-Z5526jnr6MXgvHbYRxA,"['Algeria', 'Libya', 'Italy']",country
+Tunisia,ga_BucNHKKWAOFqNp4shDA,"['Algeria', 'Libya', 'Italy']",country
+U.K.,mwBD_KUGnHDonpJKEb3iuQ,"['Ireland', 'France', 'Australia']",country
+Senegal,D-mnkg5ZpHS9OvHi6JtDuw,"['Guinea', 'Mali', 'Mauritania']",country
+Honduras,CAoSLEFGMVFpcE9GTWdDYkZoSFd1NnF4eEZvNnd2dS1kcXVpa2NId3Q0dm50d3p2,"['Guatemala', 'El Salvador', 'Nicaragua']",country
+Canada,BDb2wFccYuVOg_MGw0LJFA,"['USA', 'Greenland', 'Russia']",country
+Palestine,xCGdurpb9znLfvo9lw_K7Q,"['Israel', 'Jordan', 'Egypt']",country
+Denmark,LBlM29BN8UEcoV5YJ8dKxg,"['Germany', 'Sweden', 'Norway']",country
+Russia,2GbhFHHfhA5C7kcQAwxSbA,"['Kazakhstan', 'Mongolia', 'China']",country
+Uruguay,oRWbjJHfeh_w6E85TnbHYQ,"['Argentina', 'Brazil', 'Paraguay']",country
+Lesotho,s1qUVysXiibl9VshzkGBGA,"['South Africa', 'Eswatini', 'Botswana']",country
+Nicaragua,CAoSLEFGMVFpcE5uTzh2QW83MnhSM01DMWlFT0U1cjhGUlFBT1RyWW5HNjRSaDI2,"['Honduras', 'Costa Rica', 'El Salvador']",country
+Timor-Leste,CAoSLEFGMVFpcE9xbU51U1MtRk1VM3c4MWhWV1pteV9fQVUwblRhb1R2MXVUSGRo,"['Papua New Guinea', 'Indonesia', 'Australia']",country
+Maldives,CAoSLEFGMVFpcFB1bm14UDBBeUJBMFBoSU1vTHl2LW9kLXE2NGxyMnNjVW10d1Vo,"['Sri Lanka', 'India', 'Mauritius']",country
+Laos,YlUvnaPWAoEsGLIZnnLwnw,"['Thailand', 'Cambodia', 'Vietnam']",country
+China,xfu_MajV-POIrbSqd9vlCQ,"['Kazakhstan', 'India', 'Russia']",country
+Moldova,CAoSLEFGMVFpcE1mZUwzSkhaMjVFWENuN3VUQW5MUFBTNF9QY1NDZWk3WS1BRDFw,"['Ukraine', 'Romania', 'Belarus']",country
+Spain,-ckGClY5bhz9jsYalCbd-w,"['France', 'Morocco', 'Portugal']",country
+Rwanda,JSjz3-bEk7zwtn9Eba5zhw,"['Uganda', 'Tanzania', 'Burundi']",country
+Laos,WY-WVGQuI5VK2kwb9htvNw,"['Thailand', 'Vietnam', 'Cambodia']",country
+Russia,Y1MWDjN0V0MgsdQ-iKsnHQ,"['Kazakhstan', 'Mongolia', 'China']",country
+Oman,nrteK6ijkmHsSCUIbDiHZA,"['UAE', 'Saudi Arabia', 'Yemen']",country
+Serbia,YO5frOPCz3M5u-GXtu1Yww,"['Hungary', 'Romania', 'Bulgaria']",country
+Iraq,JDr3cW1ER8LRwVs1aEXyTw,"['Iran', 'Turkey', 'Syria']",country
+US Virgin Islands,0KhS11biNyZUlf91PdruMA,"['Dominican Republic', 'Puerto Rico', 'British Virgin Islands']",country
+Russia,f4LxWu4pm4qRg893S1mtpA,"['China', 'Mongolia', 'Kazakhstan']",country
+Vatican,CAoSLEFGMVFpcFBKMjQtdlJybEd4SkFqYkhUVjJsZzB5Q25xS3d3eTFCRlQ3Vl80,"['San Marino', 'Italy', 'Monaco']",country
+Palestine,iNXVx1VpuM4SNgEKya-79g,"['Jordan', 'Egypt', 'Israel']",country
+Belgium,CAoSLEFGMVFpcE9Ob3UxVFpYZ0RIclQ3c2tyMDlJVHBLMDBfdnBFcXdNYkotQ0E0,"['Netherlands', 'France', 'Germany']",country
+South Africa,76P-j2r76EpNPh7RHea14w,"['Namibia', 'Botswana', 'Zimbabwe']",country
+Greenland,e4eQUulwYAwPl2wlW8ZdbA,"['Iceland', 'Canada', 'Norway']",country
+Iraq,OcIQ6oW8gNJsxt6bJnLVhg,"['Turkey', 'Iran', 'Syria']",country
+Montenegro,EFKrksOPOtj7OfFwv95kTw,"['Serbia', 'Bosnia and Herzegovina', 'Albania']",country
+Swaziland,ukZHXt_s06p5LLsvsdbBng,"['Peru', 'Jordan', 'Czech Republic']",country
+American Samoa,Qj2xI9c7SgQn28CUlxj_CQ,"['Samoa', 'Fiji', 'Tonga']",country
+UAE,Lk5XMX0JHIsPRmKjNmb87Q,"['Saudi Arabia', 'Qatar', 'Oman']",country
+Vatican,CAoSLEFGMVFpcE85Y0tHOXBPMWdMQWhmX0lJYzdWTHZFSEx1RENNZTdRcjR1WGV3,"['Italy', 'San Marino', 'Monaco']",country
+Palestine,LmlFmm6P55uwKQQRbryg5w,"['Egypt', 'Israel', 'Jordan']",country
+Palestine,Z6aJRnfV0hzVEnWDFL0F5A,"['Israel', 'Jordan', 'Egypt']",country
+Czech Republic,EhSEaIhUiNKCLNcvbFVjNA,"['Austria', 'Slovakia', 'Germany']",country
+Chile,ecuOJbd11JWDLNqIT2WNEA,"['Argentina', 'Bolivia', 'Peru']",country
+Botswana,uzGk1sp7-h2detj1Kl6olg,"['South Africa', 'Namibia', 'Zimbabwe']",country
+Vatican,JcElisFwmf_szLwEMY_6fQ,"['Italy', 'San Marino', 'Monaco']",country
+Palestine,Z1jA7GUh2RObLwCorniVOA,"['Jordan', 'Egypt', 'Israel']",country
+Liberia,CAoSLEFGMVFpcE9pajRORVJXcUdMajN2cUhiemlmZXZ4NUZ6Rk43Q2REUUhYc3NV,"['Guinea', 'Sierra Leone', ""Côte d'Ivoire""]",country
+Senegal,l4S3lLIKOA-GFiN99hC1KQ,"['Mauritania', 'Guinea', 'Mali']",country
+Uruguay,POPASLbIWnblrI84PU1d2A,"['Argentina', 'Brazil', 'Paraguay']",country
+Austria,edno6TmAkg5zTsuOLnxGmQ,"['Germany', 'Czech Republic', 'Slovakia']",country
+Latvia,nhk1mB-dpzDUGUFEzylvOQ,"['Russia', 'Estonia', 'Lithuania']",country
+Czech Republic,5K5LvYoNtmbG9fS_-EV4Gg,"['Germany', 'Austria', 'Slovakia']",country
+Ukraine,3VJphfjA39938wRVZNjs-g,"['Russia', 'Belarus', 'Poland']",country
+Serbia,-9q5OeaYjT-m26yxEufSbA,"['Bulgaria', 'Romania', 'Hungary']",country
+Indonesia,3uPp5Mwec-sb3PZjlsChEw,"['Malaysia', 'Australia', 'Papua New Guinea']",country
+Palestine,rF_y-mAYZdVTEc2JoAtBAA,"['Egypt', 'Israel', 'Jordan']",country
+Palestine,LWZdWEVpl6y1IQlpGlpUYQ,"['Israel', 'Jordan', 'Egypt']",country
+Croatia,H6AWa8ncoJEPwAUi9kEC8Q,"['Slovenia', 'Bosnia and Herzegovina', 'Hungary']",country
+Bahrain,CAoSLEFGMVFpcE16SDJtdFcxQm9WTTZFajFqeTRJMWhPc3ZVcmRRV19JQ3dDRmhJ,"['Saudi Arabia', 'Qatar', 'UAE']",country
+Syria,CAoSLEFGMVFpcE9WS2JfcTRHOFVrSXRJb1FQNVgyZWM1NS1vVFgyal82Zmp4cFZw,"['Turkey', 'Jordan', 'Iraq']",country
+Palestine,nBc0AHLoEd4m70N7aXm-0w,"['Egypt', 'Israel', 'Jordan']",country
+Lithuania,owPuyQEHdrJYsYvR1QMg9Q,"['Latvia', 'Belarus', 'Poland']",country
+Burkina Faso,CAoSLEFGMVFpcE0xdkNuTEhUTzYyUzFCMEJpUVZqWWhsazByS1hEU0pUbkhwSUMt,"['Ghana', 'Mali', 'Niger']",country
+South Sudan,CAoSLEFGMVFpcE5uSG9LZ3hiQ1NPS0ZOeHdTTDZ0Zy1hTTlCRklkbElSamp5UzZO,"['Sudan', 'Ethiopia', 'Kenya']",country
+Palestine,54WmnBm51vJwe_j_1eqziw,"['Israel', 'Jordan', 'Egypt']",country
+China,CAoSLEFGMVFpcE1lYWVxd3R3TmFTemFIVnRlMTZiYWszOEpmYVliUmdZLWRqTHg5,"['Russia', 'India', 'Kazakhstan']",country
+Kenya,vgu5Gm29dHsem_fwqqF9tA,"['Ethiopia', 'Somalia', 'Tanzania']",country
+Denmark,FDFUee_hAsoem52KsNsjuw,"['Germany', 'Sweden', 'Norway']",country
+Israel,f3HVhklOPPTJ5x1eWZ-Cfw,"['Lebanon', 'Palestine', 'Jordan']",country
+Palestine,h--ET-HaFuvTsONrumuolQ,"['Israel', 'Jordan', 'Egypt']",country
+Palestine,ZTcYy2oG0_v-BGyYVJewpQ,"['Israel', 'Jordan', 'Egypt']",country
+Palestine,5CdrKPN39KzWbKhDbDaF_g,"['Israel', 'Jordan', 'Egypt']",country
+Palestine,zcHRB1saE1YeyJGlx4akUw,"['Israel', 'Jordan', 'Egypt']",country
+Syria,CAoSLEFGMVFpcE9GdmY1ZVBBQ3NVRkNQUm4zUV9QQWhSeW52TTVEZ0l3NEEyVmRE,"['Jordan', 'Iraq', 'Turkey']",country
+Haiti,CAoSLEFGMVFpcE9MT281ckdXY3M3LVJxOHhtVG9qT3hFb1RTNk9wUVdTU0xrT2Ro,"['Dominican Republic', 'Cuba', 'Jamaica']",country
+Palestine,6O6NGbttxpxVpmJOIio-8g,"['Israel', 'Jordan', 'Egypt']",country
+Palestine,eFV6ACRXXtchUfT7MHcA-w,"['Jordan', 'Egypt', 'Israel']",country
+Colombia,VXj6S20sZLHCAQV47hFtzA,"['Brazil', 'Peru', 'Venezuela']",country
+Denmark,a-fA-OZYDwzLtW2hbZwgtA,"['Germany', 'Sweden', 'Norway']",country
+Laos,nrdY53LomJInTeF8ypvKQg,"['Vietnam', 'Thailand', 'Cambodia']",country
+Albania,gH1zh5GmI532XlsBHyYrxg,"['North Macedonia', 'Kosovo', 'Montenegro']",country
+Argentina,jb_myky19Ilr6YNaP4Byvw,"['Paraguay', 'Chile', 'Bolivia']",country
+Palestine,W8Ccg7iLfvMjaBOfua0t8A,"['Jordan', 'Egypt', 'Israel']",country
+Senegal,lB7R0Tcsjky1bzK1RXzCDQ,"['Mauritania', 'Guinea', 'Mali']",country
+Canada,6Gz_9umAxVUkuawT9-c8SQ,"['Russia', 'Greenland', 'USA']",country
+Palestine,P_ylA--P3HEnsGnP9InwSw,"['Egypt', 'Israel', 'Jordan']",country
+Turkmenistan,CAoSLEFGMVFpcE8xUzl5bkd0amhINXlhUTRJMFBqZHBkdVo4Y1VDOXBpM0o4bHRH,"['Afghanistan', 'Uzbekistan', 'Iran']",country
+Burundi,CAoSLEFGMVFpcE5KMXhPQkJMSzcxNEpUdTc2dDBpemZDRy1oOXlnX1NNSUx3eldV,"['Rwanda', 'Tanzania', 'Democratic Republic of Congo']",country
+Iraq,CAoSLEFGMVFpcE5yUWFQbi1jV3dZNHlZODM4c1FCNEtzSlFMS2V0X013TXFMNTJ5,"['Syria', 'Iran', 'Turkey']",country
+Bahrain,CAoSLEFGMVFpcE5faXRsZ1BVaVJ4QlhMY0xYaVZOaWVja3E3VGlPc3BsZ3phX0t0,"['Saudi Arabia', 'UAE', 'Qatar']",country
+Palestine,qhJNYtgpWyDfBBWA_f_hxQ,"['Israel', 'Egypt', 'Jordan']",country
+san marino,iBiA8qpj9_JeYcFQT7CasA,"['Paraguay', 'Italy', 'Kyrgyzstan']",country
+Sri Lanka,v2yZCt31KWddSw8WfJwFYA,"['India', 'Bangladesh', 'Maldives']",country
+Slovakia,gs6Cos6hGuNqC1KlL6Cx9w,"['Czech Republic', 'Austria', 'Hungary']",country
+Palestine,h0FRyCFzNJCOSrFd2oFKmw,"['Israel', 'Jordan', 'Egypt']",country
+Palestine,ql5DrE0jzc3VoNIMbH_T-Q,"['Israel', 'Jordan', 'Egypt']",country
+Gabon,CAoSLEFGMVFpcE1XUDhDcnVTT3BrMW9PRzMwRjA4RlNlREJCMTAwMzdncy1NTmV3,"['Equatorial Guinea', 'Cameroon', 'Republic of Congo']",country
+Indonesia,KCVQdO-4BERew6__VLN8aw,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+Bangladesh,hNkw5KqBsHZStS-4s3otlQ,"['Nepal', 'India', 'Myanmar']",country
+South Africa,OvZGKQ7_fr9vMe-nppjP9Q,"['Namibia', 'Botswana', 'Zimbabwe']",country
+Bhutan,bBZmXmmLtFK8czszxKrUGw,"['Nepal', 'China', 'India']",country
+Peru,4kmo05Ki_TE78Kyv8jjhsA,"['Brazil', 'Colombia', 'Ecuador']",country
+Belgium,1vppioa1vvj7SWDFNcXS-Q,"['Netherlands', 'Germany', 'France']",country
+Austria,TNcUWj8t9Uf0FmdWsp3mWQ,"['Germany', 'Slovakia', 'Czech Republic']",country
+Swaziland,S073exLYc2y2egczoP4ShA,"['Mozambique', 'South Africa']",country
+Lithuania,CvgKD69NgX6_IopEjzxnDA,"['Latvia', 'Poland', 'Belarus']",country
+Mexico,9VQqLiKqv6HgEs4N2J6GxQ,"['USA', 'Guatemala', 'Belize']",country
+Albania,AKm--3msKZ88sAfKW5YTyg,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Greece,fX8ior42LKA7Sbo1NS8R1w,"['Bulgaria', 'Albania', 'North Macedonia']",country
+Lesotho,me9NopFZr_09Je76U89i8Q,"['Eswatini', 'Botswana', 'South Africa']",country
+Sri Lanka,TZVIFwJlbWwxpAgg355Hkg,"['India', 'Maldives', 'Bangladesh']",country
+Slovakia,dmEhItowmwM3fP_RYxsLQg,"['Austria', 'Czech Republic', 'Hungary']",country
+Austria,vYMwwksrApanO0huJLCD9w,"['Germany', 'Czech Republic', 'Slovakia']",country
+Ireland,ZPdgk1TOHD7bUGYDQZoUXA,"['France', 'Iceland', 'United Kingdom']",country
+Senegal,o3egE8SkC6JxHHxKqYnDBw,"['Mauritania', 'Mali', 'Guinea']",country
+Kyrgyzstan,HmzeOWXWvG-BNDaYPfU7bQ,"['Tajikistan', 'Kazakhstan', 'China']",country
+China,EtoGIw1oLWxcRtSrr-ozoQ,"['India', 'Kazakhstan', 'Russia']",country
+Sri Lanka,sYWX9EGIOdzfKy6t1f7PQw,"['Bangladesh', 'India', 'Maldives']",country
+Peru,mrBSY7Xk8XdG7GsEr9doMg,"['Brazil', 'Ecuador', 'Colombia']",country
+Belgium,rh43f_ukmy9nx8AGPM_Zew,"['Netherlands', 'Germany', 'France']",country
+Guatemala,Y91spswrVMd7NJA343XEcA,"['Mexico', 'Belize', 'El Salvador']",country
+Slovakia,c4FIoVUpRYv-0-Ad35iiFA,"['Czech Republic', 'Austria', 'Hungary']",country
+China,VW8GjX0fixneV-Qpggm4_Q,"['Kazakhstan', 'Russia', 'India']",country
+Israel,qaxx9_M3zUCHSn7Eq53xpQ,"['Jordan', 'Lebanon', 'Palestine']",country
+Luxembourg,vMc0KsTu07wE5WCOnCY_9A,"['Belgium', 'France', 'Germany']",country
+Kenya,Bq6fe7ys4DQ72MkqMY6O2w,"['Ethiopia', 'Somalia', 'Tanzania']",country
+Palestine,Q6dIj0qHkHCEhxluqrzgLA,"['Israel', 'Jordan', 'Egypt']",country
+Senegal,UsUEkxFkBUjHNjt_bLDK9g,"['Mali', 'Guinea', 'Mauritania']",country
+South Korea,S0kw-aQqU95o-kSUjElbpA,"['North Korea', 'China', 'Japan']",country
+France,48f3OW4Z3CKKix9OJ68Ytg,"['Luxembourg', 'Spain', 'Belgium']",country
+Estonia,RZJKLC2GKq0HpyMRMEeR5Q,"['Latvia', 'Finland', 'Russia']",country
+Bangladesh,LD7e4pCzdM60kulgH79QcA,"['Myanmar', 'Nepal', 'India']",country
+Senegal,TOUKu-kZdh1CQx8Q6-Vf9w,"['Guinea', 'Mali', 'Mauritania']",country
+Romania,3sjf0UqcG5WaMq8DSuNKBw,"['Serbia', 'Bulgaria', 'Hungary']",country
+Sri Lanka,SLUL7lNfwRw1PzKylb598A,"['India', 'Maldives', 'Bangladesh']",country
+Honduras,CAoSLEFGMVFpcFBHaHUyX0xmNlc4eWVMcHlvdU1RQnlBSjVxV1dBYzJrYm9PV1VC,"['Guatemala', 'Nicaragua', 'El Salvador']",country
+Poland,CAoSLEFGMVFpcE9IZWZ0WG9qWTdpZkRCbWRQYXNhXzFZZmhSd0VWZHBtQW1BLUlf,"['Czech Republic', 'Slovakia', 'Germany']",country
+Senegal,ZUebKN0j-ru-Tb5DE2Vtjg,"['Mali', 'Guinea', 'Mauritania']",country
+Colombia,wugWVi3o71WC9Dw7s8NPBA,"['Venezuela', 'Brazil', 'Peru']",country
+Colombia,6Gpsim1ZWMKlv6-cNCxVeQ,"['Venezuela', 'Brazil', 'Peru']",country
+Gambia,CAoSLEFGMVFpcE1oRnM1cHZUWExBSFFXSS1US3BWYXRSbDVQWDRWQ2k1X2NGeEx1,"['Senegal', 'Guinea-Bissau', 'Mali']",country
+Kenya,0CNMTioi9Jigzafbi1iArw,"['Tanzania', 'Ethiopia', 'Somalia']",country
+Kyrgyzstan,3UXR4cCS5wIqbwcl4Qs22w,"['Kazakhstan', 'China', 'Tajikistan']",country
+Afghanistan,CAoSLEFGMVFpcFBubnczY1c4ek9BbnlKZnhTMThycVBJVjc0S1hNbzZBb3Qyc2sy,"['Pakistan', 'Tajikistan', 'Iran']",country
+Sweden,i2nA8UUt-dLOBuVZY5bORw,"['Norway', 'Finland', 'Denmark']",country
+Senegal,ahuujiWY0_TMfGwsHLhIXA,"['Mauritania', 'Mali', 'Guinea']",country
+Bahrain,CAoSLEFGMVFpcE5na0J3MENvNVI4OHZWQjlNQzBoS2tFdDFuNk5MdDNZNXI4R2gz,"['Saudi Arabia', 'Qatar', 'UAE']",country
+Canada,mZRNmjXUYzqR1cPzz0H0jg,"['Russia', 'Greenland', 'USA']",country
+Senegal,2YJtxlxmfpWfwqMdMNmyhg,"['Mauritania', 'Guinea', 'Mali']",country
+Montenegro,K2XOpyINVL72OeaP09ZuuQ,"['Albania', 'Bosnia and Herzegovina', 'Serbia']",country
+Palestine,-4vHkUb0OWsFCy3jp6VXLQ,"['Egypt', 'Israel', 'Jordan']",country
+Colombia,ho4GWORK-E0a-tsrFRvf5g,"['Brazil', 'Peru', 'Venezuela']",country
+Poland,fFkyebg8Xr1CUaAfFZNlyQ,"['Czech Republic', 'Slovakia', 'Germany']",country
+Poland,DMlJ8WGgkaO5DO5U4Vr7XQ,"['Germany', 'Czech Republic', 'Slovakia']",country
+Kenya,WCxkdtnQZBmbGoi8mh_kAw,"['Tanzania', 'Ethiopia', 'Somalia']",country
+Venezuela,CAoSLEFGMVFpcE96ZlBaLXJFclkybWNDdV9ITjNxdXpjbkx6ZDZTanphZUNQLXY4,"['Colombia', 'Brazil', 'Guyana']",country
+Mongolia,QUF0i6c2ExkjRFrBfOZ0kA,"['Kazakhstan', 'Russia', 'China']",country
+Botswana,5DfCK3PnXzDAInSBRsJi_g,"['South Africa', 'Namibia', 'Zimbabwe']",country
+Belgium,HNFNW3GmGA_7LTIQ8VcX0A,"['Netherlands', 'France', 'Germany']",country
+Serbia,KQrMRqlBLg0-Igeb6Cl4_Q,"['Bulgaria', 'Hungary', 'Romania']",country
+Norway,Lb2DguwL5UkeMHFSRGGA0A,"['Sweden', 'Russia', 'Finland']",country
+Kenya,PdnCwc8T-uChjyaX87joVw,"['Ethiopia', 'Somalia', 'Tanzania']",country
+Canada,KEYSZp9ls-ltdeI6rVQfFQ,"['USA', 'Greenland', 'Russia']",country
+Burundi,CAoSLEFGMVFpcE5xQU1fMC0yTUg1VHdxVDRRQzBaM0w1ZVNlUHJ4dUlTNWhRejlR,"['Rwanda', 'Democratic Republic of Congo', 'Tanzania']",country
+Iraq,CAoSLEFGMVFpcE4tOERCWmE1RGxhblRTQldlS0o1UVRVS2dOZTI0bjJ3eFM2RUNE,"['Iran', 'Turkey', 'Syria']",country
+Austria,PkwHcXxjPQRIx1KPngIzIQ,"['Czech Republic', 'Germany', 'Slovakia']",country
+Belgium,CAoSLEFGMVFpcE84MTFlSmJwZTlodjJaUHZkNjNLV1JmSEVmRUM0a285S2ZMMF9w,"['France', 'Netherlands', 'Germany']",country
+El Salvador,CAoSLEFGMVFpcE5XYmEyVGJLZnIyclUxc1NmQzB3NERheVNUUFlxbjRGT2w0TGxt,"['Nicaragua', 'Guatemala', 'Honduras']",country
+Austria,upJI0wD-yeVtuIbmiJ-StA,"['Czech Republic', 'Slovakia', 'Germany']",country
+China,Zgd-aeWrHZEE_AvDKqP6mw,"['Russia', 'India', 'Kazakhstan']",country
+Mexico,TaxaTz8fBLCWPus6rg5riw,"['Belize', 'USA', 'Guatemala']",country
+Albania,GDhCk9PvGnhK9ZLzkuBKQA,"['Kosovo', 'Montenegro', 'North Macedonia']",country
+Uruguay,w4OTRBsHSFV_5f4D9qpcDw,"['Paraguay', 'Argentina', 'Brazil']",country
+Norway,3CoBenGYp4EkqxNKR67W6A,"['Sweden', 'Russia', 'Finland']",country
+Laos,4araM4LfVJTVQ-0nybniGQ,"['Vietnam', 'Thailand', 'Cambodia']",country
+Sri Lanka,HZ0YKQTIvZNlIBzH31Md9A,"['Maldives', 'India', 'Bangladesh']",country
+Austria,CgSER63sqo6LC-JAmR6vFw,"['Germany', 'Czech Republic', 'Slovakia']",country
+Brazil,t0aXkKrdeERMSwmZykHSfw,"['Argentina', 'Peru', 'Bolivia']",country
+Bolivia,pI_7fmWL2THj_fLCL8O4Mg,"['Chile', 'Brazil', 'Peru']",country
+Uruguay,VEgvSzmMIghVf0TYimEbIg,"['Argentina', 'Brazil', 'Paraguay']",country
+Brazil,OnzKjxO8K7iAGjemtdsg6A,"['Bolivia', 'Argentina', 'Peru']",country
+Laos,Lpq2BwCVHN88rJzDLsNPww,"['Thailand', 'Vietnam', 'Cambodia']",country
+Estonia,FJPF3ckS_7xr85jxpi6lCA,"['Finland', 'Russia', 'Latvia']",country
+Sweden,pUnjp96-Hhmlu5ydy8okVw,"['Finland', 'Denmark', 'Norway']",country
+Uruguay,ot1UMdh9eR7gLIh6JA24Zg,"['Argentina', 'Brazil', 'Paraguay']",country
+Indonesia,uOfDBe3Am5BaowOk1rM61g,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+Indonesia,7KOTtE9RcCRvJzge9Hf9HA,"['Australia', 'Malaysia', 'Papua New Guinea']",country
+Ecuador,8bb1FPahnQXaP86Rp8Eg3w,"['Brazil', 'Peru', 'Colombia']",country
+Sweden,GCfvKsXTozX3AfcxJmPFIg,"['Finland', 'Norway', 'Denmark']",country
+Laos,AZzuaoMvu-Au9J04gGeQBA,"['Thailand', 'Vietnam', 'Cambodia']",country
+Mexico,r6MikV5xz3hJJtZqfjIs7Q,"['Guatemala', 'Belize', 'USA']",country
+Mexico,sH1FEoLzSGh9njPholtMnw,"['USA', 'Guatemala', 'Belize']",country
+China,E5_qL-WqBOU4tx4imS2K_w,"['Kazakhstan', 'India', 'Russia']",country
+Uruguay,P_CYrFd4kLPoopkzmNW3aQ,"['Argentina', 'Brazil', 'Paraguay']",country
+Libya,CAoSLEFGMVFpcE1RWVU3SzMtMW1NdEZ0Qk5WVjdSZmFUZ3VXZ0dTTWJCYXFid2xY,"['Egypt', 'Tunisia', 'Algeria']",country
+Belgium,XtUUH--fzV7a_E3tTv7aOw,"['Netherlands', 'Germany', 'France']",country
+Sweden,Q6objYB48zTWwk0pv9puNQ,"['Finland', 'Norway', 'Denmark']",country
+Albania,IlbMwkecUdAE5Rs8X1r9QQ,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Argentina,SA3VqG2qAlkWoOmYaLzprg,"['Chile', 'Bolivia', 'Paraguay']",country
+Lithuania,JD1Utkg3oaldT2GlEQlMOw,"['Latvia', 'Poland', 'Belarus']",country
+Norway,cph6pWg-2sUuMZbaWqxVDA,"['Finland', 'Russia', 'Sweden']",country
+Poland,ddOlTVs3MeH54ZV0e92G1Q,"['Germany', 'Czech Republic', 'Slovakia']",country
+Luxembourg,Z7VbLtD6TbPgpqsp8_jNjQ,"['France', 'Germany', 'Belgium']",country
+Ukraine,Je2b8URPj8916_zXfoPJYg,"['Russia', 'Belarus', 'Poland']",country
+Peru,E4t2WlLifJo2JSQ3CZmgNw,"['Ecuador', 'Colombia', 'Brazil']",country
+Colombia,QFfQU0sTocIOHVDRFj9m7Q,"['Brazil', 'Peru', 'Venezuela']",country
+Russia,fC_RA41UUBA_bBacS_aLUQ,"['China', 'Mongolia', 'Kazakhstan']",country
+Ecuador,eXNpkm56khRGHcqO2OsorA,"['Peru', 'Colombia', 'Brazil']",country
+Luxembourg,Xx3twZKXfxC4Mse_kvJUHw,"['Belgium', 'France', 'Germany']",country
+Croatia,IsyUdCTbcpFtcz7bXb_YtQ,"['Bosnia and Herzegovina', 'Slovenia', 'Hungary']",country
+Canada,zmGZ6TVzcgcjJ0M5UgcB_w,"['Russia', 'Greenland', 'USA']",country
+Lesotho,9th3kwhZ7WeNeppUdiRzgA,"['Eswatini', 'Botswana', 'South Africa']",country
+Sweden,gWeE28MQDhWb_1VP0xJ-xA,"['Norway', 'Finland', 'Denmark']",country
+Laos,3mRckB0PwwvCDoPKcTHDpw,"['Thailand', 'Cambodia', 'Vietnam']",country
+Chile,Cw8uAXsJc5QfX1yl840E0Q,"['Peru', 'Bolivia', 'Argentina']",country
+Ukraine,7wGlsMkwu_MiE6Vry4QFJQ,"['Russia', 'Poland', 'Belarus']",country
+Chile,vHW87yMXil7xqNgoqMW_Dg,"['Argentina', 'Bolivia', 'Peru']",country
+Oman,CAoSLEFGMVFpcE9yU3BKWVlBUnVycmx1b0VzTHVqMVBseXhqS2h1OFRBT0hFa05P,"['UAE', 'Saudi Arabia', 'Yemen']",country
+Cambodia,eSQsnjXxgDZJLVPx20ZAGQ,"['Vietnam', 'Laos', 'Thailand']",country
+Bulgaria,KXrr2pIIYhcQdNKOJmJkaA,"['Romania', 'Serbia', 'North Macedonia']",country
+USA,CAoSLEFGMVFpcE5hOUJLa3BPeHZLRGxmOFJ1VndTc0xuYUtqdTR1SlNaZGo5aG9E,"['Canada', 'Russia', 'Mexico']",country
+Haiti,CAoSLEFGMVFpcE92Z0JiRUhzRUlOVEJ6azNvTDYtZWJsX2xfLWprcTFnNFhZR0hB,"['Jamaica', 'Dominican Republic', 'Cuba']",country
+Albania,15gzD92TvjxmxDhJ_2oHpQ,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Senegal,EvMOAksLRQDhhfrhEssdoQ,"['Mauritania', 'Guinea', 'Mali']",country
+Austria,BFJmq4Pez9O3hvmrj9so0Q,"['Germany', 'Czech Republic', 'Slovakia']",country
+Afghanistan,CAoSLEFGMVFpcE5CUnoyUEk0VVNJeHJvazFHdzNTb2cxdHlfdC1JU1o5czdDTWZ1,"['Pakistan', 'Iran', 'Tajikistan']",country
+South Africa,CAoSLEFGMVFpcFBKNHYyekI0X3Y5TVhra3dBbEpxek4teUtiOURvbE9RVW1NSXNE,"['Botswana', 'Zimbabwe', 'Namibia']",country
+Austria,Fg0TLwZHNxMivfOYfJeQXw,"['Czech Republic', 'Slovakia', 'Germany']",country
+Serbia,fpfudtHz7ivynRWqxr8agQ,"['Romania', 'Hungary', 'Bulgaria']",country
+France,DwHlWbnpseSSfF-re9QJdg,"['Belgium', 'Spain', 'Luxembourg']",country
+Senegal,rAAGkBSnoFZrohSk5q0_Xg,"['Guinea', 'Mali', 'Mauritania']",country
+Laos,-iuvTw0bkyUkNSSI_XtGgQ,"['Vietnam', 'Thailand', 'Cambodia']",country
+Thailand,fjzAbJwKwuoiM3fnzeSvPA,"['Laos', 'Myanmar', 'Cambodia']",country
+Myanmar,CAoSLEFGMVFpcE1qVzNhQ1BxSm9kcXBoX1pHd3dxYU1HVi1LaVI4VW5Lcm9YVzdN,"['India', 'China', 'Thailand']",country
+Mexico,pg95NMiSBxs3hbuG9vYwhg,"['USA', 'Guatemala', 'Belize']",country
+Canada,PI0BFKKKqlRKrDdD3dKkCA,"['USA', 'Greenland', 'Russia']",country
+USA,KzD9S1PrGeVfOz-FLcfS0g,"['Russia', 'Mexico', 'Canada']",country
+Uruguay,zye9Zyiwu9Ih-Rvn_tEzBQ,"['Argentina', 'Brazil', 'Paraguay']",country
+Sri Lanka,YNnQ5Tj2XiNpSAC7fgF__g,"['India', 'Maldives', 'Bangladesh']",country
+Colombia,M7CpG_zs0_48tmg1knHM7A,"['Venezuela', 'Brazil', 'Peru']",country
+Palestine,eBNRWtMFZbugWn3856crWg,"['Israel', 'Jordan', 'Egypt']",country
+Finland,WFLvIoChad6k9nzwjD8RLQ,"['Russia', 'Norway', 'Sweden']",country
+Comoros,CAoSLEFGMVFpcE12SktBSVZ3d0JFUElncXh6OXN1ejlIZlFVbnBpdjA0R196RUV5,"['Madagascar', 'Mozambique', 'Tanzania']",country
+Uruguay,WJ4OwqFrR8SEdufUTh-Ubw,"['Argentina', 'Brazil', 'Paraguay']",country
+Myanmar,CAoSLEFGMVFpcE5wNUR4N2dnYTRuZVhkWFVjZmRxdTlaVHFrSmlUNXpvaTBKWE1I,"['Thailand', 'China', 'India']",country
+Hungary,kRPL2pRT9cvaOjqaidXY1w,"['Romania', 'Slovakia', 'Austria']",country
+Poland,J5jXFI8tdr-L0b-Ifn7kmw,"['Germany', 'Czech Republic', 'Slovakia']",country
+Mexico,3q5RgZKCKRLQlmOiqTtSIQ,"['Belize', 'Guatemala', 'USA']",country
+Estonia,0NoXMVL9uTE0j9fOzBtOXA,"['Finland', 'Latvia', 'Russia']",country
+Indonesia,RtuPNeq6lfpUD6SswnrXzw,"['Australia', 'Papua New Guinea', 'Malaysia']",country
+Iraq,CAoSLEFGMVFpcE54aHBCWE1iQlhneVQ5RHVWNjdyUFRRZUVveUFoNDhNdUwwUUo3,"['Iran', 'Turkey', 'Syria']",country
+Brunei,CAoSLEFGMVFpcE1QcmRDMFFSVU5UbS1nTXNOTi1yV05tbzhQdFc1QkdlUnJySV9D,"['Indonesia', 'Philippines', 'Malaysia']",country
+Sweden,NG32ZSCIylErFvWWUmTcoQ,"['Denmark', 'Finland', 'Norway']",country
+Cambodia,Sd0y2Y8yf05q9p1g1gvUQA,"['Vietnam', 'Thailand', 'Laos']",country
+Moldova,CAoSLEFGMVFpcFBNaVhQUFpOVF9aWi1lUjVoeG91R0YtMUFRU0ttb29oOENmNnJs,"['Ukraine', 'Belarus', 'Romania']",country
+China,cfnn5csoTDP5uhCDI7EfmQ,"['Russia', 'Kazakhstan', 'India']",country
+Uruguay,e8nt135p2jaWaEycT5AVGA,"['Argentina', 'Brazil', 'Paraguay']",country
+Cambodia,RyVzpeCTZpQk5mQn5GMFBw,"['Vietnam', 'Thailand', 'Laos']",country
+Canada,h5XPUD8mbsTHrIGNF9o-gg,"['Greenland', 'USA', 'Russia']",country
+El Salvador,CAoSLEFGMVFpcE1nald3eEFTZDJGSFg5RGhpVHZpMG5VSjg4M1VGdU43S3JBZWFa,"['Honduras', 'Nicaragua', 'Guatemala']",country
+Sri Lanka,tp0FI9gaPC1U9y8kZp2cLg,"['Bangladesh', 'Maldives', 'India']",country
+Sri Lanka,D-f7fZuv0PyxWLA8WY8m_w,"['India', 'Maldives', 'Bangladesh']",country
+Sweden,qjPkHWnjEgDrsO41yUti6g,"['Finland', 'Denmark', 'Norway']",country
+Guatemala,0YIbP-y8oBX3Y9zU0nSMBA,"['Belize', 'El Salvador', 'Mexico']",country
+Belgium,S-Qb1ijFjHHK6tVBKVLqsA,"['Germany', 'Netherlands', 'France']",country
+Switzerland,CAoSLEFGMVFpcFBGVFlVTC1GQWJGNzdVYTduNkJZZVRBSXZKTXJNMnVKVWtBR2s4,"['Germany', 'Austria', 'France']",country
+Lithuania,CAoSLEFGMVFpcFBoaEZXWjlycG9sTVBDSjF2bllYLXVmVFY4YTZsbFpCVkY1eFQt,"['Latvia', 'Poland', 'Belarus']",country
+Kenya,fLlcGJVrHwVasaYz47S8qw,"['Tanzania', 'Somalia', 'Ethiopia']",country
+Austria,V-g4wB117kLY24qkt4mgKg,"['Germany', 'Czech Republic', 'Slovakia']",country
+Lesotho,5mC4AW8AHU794cFSdyVsYw,"['Botswana', 'South Africa', 'Eswatini']",country
+Senegal,Za6dRn9BSzIJstMeNlXBdg,"['Mauritania', 'Mali', 'Guinea']",country
+Bhutan,LX1larf4wgmuDLj5alaQrw,"['China', 'Nepal', 'India']",country
+Senegal,Uofpm7Dcuak2qdbYjTjejw,"['Mauritania', 'Mali', 'Guinea']",country
+Sao Tome and Principe,CAoSLEFGMVFpcE5yUnQxUDgtOHluV1gyQWVrSEJZMDVrUmljbFV6eXVBMjVNY0Vj,"['Equatorial Guinea', 'Cameroon', 'Gabon']",country
+Argentina,6u5crmWD_KXRdoheREmLhA,"['Bolivia', 'Chile', 'Paraguay']",country
+Austria,lYlIQWrO-ZDte9GlsQ_rCA,"['Slovakia', 'Germany', 'Czech Republic']",country
+Guatemala,6guODWN1SGBrAkYrqLSU8w,"['El Salvador', 'Mexico', 'Belize']",country
+Norway,iesng0I_6t2ueO5-2fz5BA,"['Russia', 'Sweden', 'Finland']",country
+Portugal,d3D-s1kHwYlIYvlHtCtBGg,"['Morocco', 'France', 'Spain']",country
+North Macedonia,pHmI64K01EHYVxjfcW8lTw,"['Bulgaria', 'Greece', 'Albania']",country
+Lithuania,QxautzGGGHmp4BV6PglcPg,"['Latvia', 'Poland', 'Belarus']",country
+Switzerland,o3PT0eA2EB3xWneCxSzH4w,"['Austria', 'Germany', 'France']",country
+Chile,VHfLMS09qcS43Ogb-kiMxA,"['Peru', 'Argentina', 'Bolivia']",country
+Chile,FYD0ZJ0DbE96oG-CDVhUrA,"['Bolivia', 'Peru', 'Argentina']",country
+Slovakia,rye1W_q2mPqynM5IldmBng,"['Hungary', 'Czech Republic', 'Austria']",country
+Sri Lanka,kys1iHaBTqd8TlhgeYwFRQ,"['India', 'Maldives', 'Bangladesh']",country
+Serbia,EVhAfnufLmPgG8Sv5ie-RQ,"['Hungary', 'Bulgaria', 'Romania']",country
+Uruguay,AyvtEmC-gealzWrax65R0Q,"['Paraguay', 'Argentina', 'Brazil']",country
+Greece,2WlwT_8aMMLZsyaW6VgoDQ,"['Albania', 'Bulgaria', 'North Macedonia']",country
+Austria,DeUhkqJpKovjpq45fMDJBA,"['Slovakia', 'Germany', 'Czech Republic']",country
+Romania,HMHggCy7CVM278ZQcazjSg,"['Hungary', 'Bulgaria', 'Serbia']",country
+Finland,NzkQkRk3UjQgBzdttAOO1w,"['Sweden', 'Norway', 'Russia']",country
+Senegal,IdAXFTO7ooA8YEqKsDbQ2A,"['Mauritania', 'Mali', 'Guinea']",country
+Bangladesh,Yl0c-ghmXDCXlf_s4bjmdg,"['Myanmar', 'India', 'Nepal']",country
+Austria,FibykmqrshSGvCOvY_518g,"['Germany', 'Czech Republic', 'Slovakia']",country
+China,yQuXfYXwfiFssFhFUw26Nw,"['Kazakhstan', 'India', 'Russia']",country
+Poland,sMnQai27KE4CXLEwWddEVg,"['Germany', 'Czech Republic', 'Slovakia']",country
+Ukraine,CAoSLEFGMVFpcE4zTnJQWHRSU1p2MTdQZWxDSXhGY2wzOTJXZm9RbHk5ZDBpbWhC,"['Russia', 'Poland', 'Belarus']",country
+South Africa,mIEICy5O4kwgHCrQPcJP-g,"['Namibia', 'Botswana', 'Zimbabwe']",country
+Albania,LC8JpAl-tu3RyOliWLts4Q,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Kyrgyzstan,BpW8RnXw1sStzh5Ui_a7uQ,"['Kazakhstan', 'China', 'Tajikistan']",country
+Poland,jtb9pcFak01L_PWyBEA5UQ,"['Germany', 'Czech Republic', 'Slovakia']",country
+Estonia,PioRoIvyhdYLPndkMVKmVg,"['Latvia', 'Russia', 'Finland']",country
+France,LQOmbjktUcJQ-mn00hOKkw,"['Spain', 'Belgium', 'Luxembourg']",country
+Croatia,Cf-ZEFbqYNHn2_Wvzd-2kQ,"['Slovenia', 'Hungary', 'Bosnia and Herzegovina']",country
+Canada,CAoSLEFGMVFpcFBmVkdwUXp0WHpKNFNoZFFvYmRycEg0aTVHdmQxYmtrNDB5eC03,"['Greenland', 'Russia', 'USA']",country
+Serbia,tuqkF9-nmqhPH5iWmLn06w,"['Hungary', 'Romania', 'Bulgaria']",country
+France,WG0dMSyvVqCoxlZxjM8Ilw,"['Belgium', 'Spain', 'Luxembourg']",country
+Lithuania,WgX6iaT53UzuX_R4jVczNA,"['Latvia', 'Poland', 'Belarus']",country
+Czech Republic,Wu48sQhJOlVHcXakLhJyBQ,"['Germany', 'Austria', 'Slovakia']",country
+Guinea,CAoSLEFGMVFpcE9hT2NMUTk1cG1TRWN6a3hOcmxLNUQwelBxWUI0WTFfeEN6R1M3,"['Liberia', 'Sierra Leone', 'Senegal']",country
+Cambodia,_hRkFxSVGez0JAbGit0BGw,"['Vietnam', 'Thailand', 'Laos']",country
+Sweden,Nc2-tOdrL2HSBUEa59nQJA,"['Finland', 'Norway', 'Denmark']",country
+Hungary,bVW02p3BgnF-_hekqueWPg,"['Austria', 'Slovakia', 'Romania']",country
+Albania,EXuQy0GA9gABpqHJFw4b7g,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Colombia,wSK8nJ7SLtbs9uo9K2u1HA,"['Venezuela', 'Peru', 'Brazil']",country
+Sri Lanka,YyylrjdNZSj-1dfOeSHnOQ,"['India', 'Maldives', 'Bangladesh']",country
+Cambodia,CcMxLo6LmOUe9mDUcNYU9A,"['Vietnam', 'Thailand', 'Laos']",country
+Moldova,CAoSLEFGMVFpcE8wWUJjVzcxVS1zaXUySm1pR2FuZlVPUUFrU1dOMUt2OWFJZ3N3,"['Ukraine', 'Belarus', 'Romania']",country
+Colombia,Avfp4rei0c19tTOyGlTgcQ,"['Venezuela', 'Peru', 'Brazil']",country
+Russia,DzCp7bG6C995LbiiECa7oQ,"['China', 'Mongolia', 'Kazakhstan']",country
+Mexico,CLmuExvJiDPS9AFpzlq_Zw,"['USA', 'Guatemala', 'Belize']",country
+Bulgaria,-D4L700DBkMaqWAtmyO9sA,"['Serbia', 'Romania', 'North Macedonia']",country
+Democratic Republic of Congo,CAoSLEFGMVFpcE5sdUx0NUhaMXZIb19SLU1KYjB1UUdLNzRXN0hMSmpUc1BMbWpx,"['Tanzania', 'Zambia', 'Angola']",country
+Belgium,EvUdWeoGJDBNWITdBNPRkA,"['Netherlands', 'Germany', 'France']",country
+Serbia,_BhkBlR3YvQZSOkT8_RRvA,"['Bulgaria', 'Romania', 'Hungary']",country
+Thailand,iykojyanCXKyDkCUtqd6sQ,"['Myanmar', 'Cambodia', 'Laos']",country
+South Korea,KwQzz2ilHxZJhj_8JWD12A,"['North Korea', 'China', 'Japan']",country
+Slovakia,rVUaVNYOikmKDjGM2DtzWg,"['Czech Republic', 'Austria', 'Hungary']",country
+Senegal,4b6oJ-4L9dBxLMwsejmlmg,"['Mauritania', 'Mali', 'Guinea']",country
+Serbia,TP07_n4rebC-k-aXOKgIag,"['Bulgaria', 'Romania', 'Hungary']",country
+Ghana,tsVXodL7A2VbO-kM5qDD8A,"['Burkina Faso', ""Côte d'Ivoire"", 'Togo']",country
+Senegal,c3v86pjwhFtvFF4BlevfHA,"['Guinea', 'Mauritania', 'Mali']",country
+Sudan,CAoSLEFGMVFpcE51TGxOSjl4VGFGS1gwZnJ5STdYYXc2MGVTSmVjeFhEVXR1Ylhw,"['Ethiopia', 'Egypt', 'Chad']",country
+Guatemala,y9KYtkeFag8cd7Vjd_750w,"['El Salvador', 'Mexico', 'Belize']",country
+Canada,MBJ_pcosNX1pqEfNs7zo1g,"['USA', 'Russia', 'Greenland']",country
+Ecuador,fe-vKMTVN8QqLyoh5lFB_w,"['Colombia', 'Peru', 'Brazil']",country
+Hungary,p6vA7LVxaz2CFYGlNXiEiQ,"['Austria', 'Slovakia', 'Romania']",country
+Colombia,LfxWFel7CQm1iQ7OgF1WNA,"['Brazil', 'Peru', 'Venezuela']",country
+Senegal,Q-MOj7SJ3r1m57FLkFSMeA,"['Mali', 'Guinea', 'Mauritania']",country
+Senegal,5gZ07rurEBO97NCO-lFMZg,"['Mali', 'Guinea', 'Mauritania']",country
+Poland,9KUmV2BLF2oRhr05jyM-Ng,"['Germany', 'Czech Republic', 'Slovakia']",country
+Canada,tsTtMfoSyxjg03OaFzSavQ,"['Russia', 'Greenland', 'USA']",country
+China,AmJwz4QTXnSU_UnKjk7cyw,"['Russia', 'Kazakhstan', 'India']",country
+Uruguay,kUkn7XiG4Kp0c4wImkImsA,"['Brazil', 'Paraguay', 'Argentina']",country
+Sweden,SgaIS2JpA2NTP42oartVvw,"['Norway', 'Finland', 'Denmark']",country
+Lithuania,RCRghyn0wipAsNtyuVp-ng,"['Poland', 'Latvia', 'Belarus']",country
+Austria,gQ5IJkbFkWI4YO3vBYRSSw,"['Germany', 'Czech Republic', 'Slovakia']",country
+Moldova,CAoSLEFGMVFpcE45dEI5bUtYREVkX3YxcktfLXowRnNObFctSUZKempSTFQ4NmY0,"['Romania', 'Belarus', 'Ukraine']",country
+France,yKJlQ5BPkGv0pahUin1B4g,"['Luxembourg', 'Belgium', 'Spain']",country
+Brunei,CAoSLEFGMVFpcFB0STVST2kyLTQ1cHBYMUswY0pUMXJkclJXa1FCS24yaTRQYkNq,"['Philippines', 'Malaysia', 'Indonesia']",country
+Cameroon,CAoSLEFGMVFpcE9fQ1ZzajVkOEdiZUtMaF9fVXBJckZPVHBwYjhtU3RhZzdqQVo3,"['Nigeria', 'Central African Republic', 'Chad']",country
+Algeria,CAoSLEFGMVFpcE1RSC1vYXpsaVpoS1Q1M2pnVDRGRXhZQlJfYk9LZ0VsN2MzR0JJ,"['Morocco', 'Libya', 'Tunisia']",country
+Ghana,VzouL8UyQg6AEVhyKL_Tog,"[""Côte d'Ivoire"", 'Togo', 'Burkina Faso']",country
+Slovakia,NAQZbD38Z428LjIOwTtqiQ,"['Czech Republic', 'Austria', 'Hungary']",country
+Slovakia,Evegl3UiyBw7dhKSu9CcGg,"['Austria', 'Hungary', 'Czech Republic']",country
+Myanmar,CAoSLEFGMVFpcFBXUlJnLUhIOWQzeXYxNENubTRHZFZjZk5la2Y0TUdJM1FpUnZO,"['China', 'India', 'Thailand']",country
+Russia,0m64-RkXrIXwh-DHeTZFGw,"['China', 'Mongolia', 'Kazakhstan']",country
+Colombia,tIlo9vBgnxNXbsc82Elngg,"['Brazil', 'Venezuela', 'Peru']",country
+Kenya,PlQ4JKk2O8JoLusDqEbDqA,"['Ethiopia', 'Tanzania', 'Somalia']",country
+Bhutan,BIPDQfbabYkpZUqYLBkHeQ,"['India', 'China', 'Nepal']",country
+Lithuania,gBjR5mdzKN7cGMHRlUom5Q,"['Latvia', 'Poland', 'Belarus']",country
+Hungary,JAaq_1ydvaV_onw1yleEFQ,"['Austria', 'Romania', 'Slovakia']",country
+Indonesia,BjHD8m4qJ4ZUlddULnoh2A,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+Sweden,vzYPF3D6JfDU6RVlvnjz3w,"['Norway', 'Denmark', 'Finland']",country
+Argentina,WOYqZRl9og98425VFETIkA,"['Chile', 'Bolivia', 'Paraguay']",country
+Saint Vincent and the Grenadines,CAoSLEFGMVFpcFBzWDI0VnBmOTFMZHJ6WFA1STVoZk04el9SVlRQVWRJOFNQVzJ6,"['Saint Lucia', 'Barbados', 'Grenada']",country
+Luxembourg,dYdsLR3kEwod4pXhqClgjQ,"['France', 'Germany', 'Belgium']",country
+Estonia,gdPzZV9xEgSNMnV02xkG2w,"['Finland', 'Latvia', 'Russia']",country
+Albania,CAoSLEFGMVFpcE85SDJubjhwdlA1UjR3VkcwcmV1S1hvdnR5QlVWOFhCbkNKeDgz,"['Montenegro', 'Kosovo', 'North Macedonia']",country
+Senegal,NVwT6_Spo4wj4P1yQ1t83Q,"['Guinea', 'Mali', 'Mauritania']",country
+Uruguay,ob31NaPnshqilX2uWD9aJQ,"['Argentina', 'Brazil', 'Paraguay']",country
+Italy,mxn9qIysWjkdJ5EeN8cbxA,"['France', 'Switzerland', 'Austria']",country
+Cyprus,CAoSLEFGMVFpcE1HTzY1R2FhX3FwNS0ycm5VUFZDanhuODhmOEVaZFgzdUs5OW9q,"['Turkey', 'Greece', 'Lebanon']",country
+Sweden,aA_H5C2tESYMt17hLyOOVQ,"['Norway', 'Finland', 'Denmark']",country
+France,4vZRYRT66HxrEXrIJ5UyGw,"['Spain', 'Belgium', 'Luxembourg']",country
+North Macedonia,CAoSLEFGMVFpcE96X3B0Wnd6dHQ3Y2IwUEEzZ29QaHlzeWhodVNPTnVwTVh3Y09r,"['Albania', 'Greece', 'Bulgaria']",country
+UAE,HSQgGAQ5a0UGFusox49bvg,"['Saudi Arabia', 'Oman', 'Qatar']",country
+Lithuania,gtRLoxnkZrYJDW5yI07oAA,"['Belarus', 'Poland', 'Latvia']",country
+Hungary,PVoCZUCYkidsYaMJ2yBBFQ,"['Romania', 'Austria', 'Slovakia']",country
+Belgium,s5Q-i36xo1Jp0xj8L4xx6A,"['Netherlands', 'Germany', 'France']",country
+Canada,7xl_0guY8fsMSXPGY7h7LQ,"['Russia', 'USA', 'Greenland']",country
+Botswana,YPwNoNUIYoOuj6Smb0sYFA,"['Namibia', 'Zimbabwe', 'South Africa']",country
+Ireland,knjspXSgRvUsTrb0uOshEA,"['United Kingdom', 'France', 'Iceland']",country
+Luxembourg,wTV_BYwOAyT8i6T0kL4SAA,"['Belgium', 'Germany', 'France']",country
+Ecuador,Y2q_gafqwgCOHiFD0nmoQA,"['Colombia', 'Peru', 'Brazil']",country
+Ireland,VbZMY3AwfRJah-TwoSBtgg,"['United Kingdom', 'Iceland', 'France']",country
+Palestine,KgjBPx7GZsrGGSk_mRAMIA,"['Israel', 'Jordan', 'Egypt']",country
+Kenya,im-m9RUp8Ug4gwl37UqvTw,"['Ethiopia', 'Somalia', 'Tanzania']",country
+Chile,XhN4Pgv9WD6jNMtVKXtyuQ,"['Bolivia', 'Argentina', 'Peru']",country
+Russia,3w9g-crju23vOfjVEXHScQ,"['China', 'Kazakhstan', 'Mongolia']",country
+Austria,Il3gcv4hLrRcxMyw_U5fcQ,"['Germany', 'Czech Republic', 'Slovakia']",country
+North Macedonia,ccNNEnKcXuC5Wx7vxGeSWw,"['Greece', 'Albania', 'Bulgaria']",country
+Philippines,gFFXG1z2mOfOMoRILDYtDA,"['Malaysia', 'Indonesia', 'Palau']",country
+Japan,SFzg1cqRbNmXVMsa3PrvBQ,"['Russia', 'China', 'South Korea']",country
+Nigeria,8Vwi5aNP9GjN2iE_Q7VTkA,"['Chad', 'Niger', 'Cameroon']",country
+Argentina,Um2qfo81gwmWkgAbZ2wceA,"['Paraguay', 'Bolivia', 'Chile']",country
+Iceland,1bAnhWgyXQBN5NuEYWW0Zg,"['Faroe Islands', 'Greenland', 'Norway']",country
+Swaziland,I61BbJ1NMS3ih_6x67vvpQ,"['Mozambique', 'South Africa']",country
+Croatia,qvkGgicnfgKaRNmZ13C3xQ,"['Slovenia', 'Bosnia and Herzegovina', 'Hungary']",country
+Kyrgyzstan,FE4IqNF8jJl8ukRY9ttP1w,"['China', 'Tajikistan', 'Kazakhstan']",country
+Sweden,Ljb0rA12hbcKv8mBCaVZ-Q,"['Norway', 'Finland', 'Denmark']",country
+Greece,kTyD_SuHHWhI0XAwB25ysQ,"['Bulgaria', 'North Macedonia', 'Albania']",country
+Sweden,jd6Gfva-b2WH9nq-7svaaQ,"['Norway', 'Finland', 'Denmark']",country
+Swaziland,Dumeq1urrw1K-JSZgcCbUA,"['South Africa', 'Vanuatu', 'Latvia']",country
+Martinique,LCsBY_OufiogprVOtcj2gQ,"['Saint Lucia', 'Dominica', 'Saint Vincent and the Grenadines']",country
+Chile,9YjURCxnvBV1NE-7IfOngQ,"['Peru', 'Argentina', 'Bolivia']",country
+Chile,YSdZ1n0r_usY5oeHb3MQug,"['Argentina', 'Peru', 'Bolivia']",country
+Canada,ix9e1zl6NEWOjfJVsDMC1Q,"['Russia', 'Greenland', 'USA']",country
+Indonesia,anqA6gq26Lh0I8xlnz4M5w,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+North Macedonia,GWbSvT9lbP1sO7NcUWMCKA,"['Greece', 'Albania', 'Bulgaria']",country
+Sri Lanka,Ex4oz5yilyYimRdRMn0DtA,"['India', 'Maldives', 'Bangladesh']",country
+Greece,oEo4dtasOMlgw6IgWxVDUw,"['Albania', 'North Macedonia', 'Bulgaria']",country
+Senegal,Pjh9Jf0vv5PEFsI9ttAdoQ,"['Mauritania', 'Mali', 'Guinea']",country
+Thailand,Et2UrmJmLxKPrVbp09tSqQ,"['Myanmar', 'Laos', 'Cambodia']",country
+Sri Lanka,5n99xcHHC3uVBoQPJoQ2Dg,"['Maldives', 'India', 'Bangladesh']",country
+Austria,VKJ7wkfh0gvpn98xC2VekA,"['Germany', 'Czech Republic', 'Slovakia']",country
+Belgium,JB8vcjaar0I4NKogMCOQZQ,"['France', 'Germany', 'Netherlands']",country
+Bulgaria,I70YBy-Dn0-rFpJVA-qCeg,"['Serbia', 'Romania', 'North Macedonia']",country
+Russia,ZR-9agfP5KdO6Pp1lzVrTQ,"['China', 'Mongolia', 'Kazakhstan']",country
+Bhutan,V7R9UvUFDBJU-XNn6QRIIw,"['India', 'China', 'Nepal']",country
+Indonesia,erjLFXNwLOvzZsr_VT1vCw,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+Botswana,4UBknxPyTtFBeqRO9FgYJA,"['South Africa', 'Namibia', 'Zimbabwe']",country
+Kenya,TOL7Ht1UpbUMlxZkFvU1zA,"['Ethiopia', 'Somalia', 'Tanzania']",country
+Poland,AiJ4NKD1nXUTmdUp3ZqRtA,"['Slovakia', 'Czech Republic', 'Germany']",country
+Greece,OP52JNu4X4jXA236JSOabg,"['Albania', 'North Macedonia', 'Bulgaria']",country
+Austria,TF0d1RCpi2W-dS5sE5zlAg,"['Germany', 'Czech Republic', 'Slovakia']",country
+Indonesia,QsN6cRu_dX8Cc8lalaAzmg,"['Malaysia', 'Papua New Guinea', 'Australia']",country
+Albania,LJSr8t_G2lgNyT4GUIj0YQ,"['North Macedonia', 'Kosovo', 'Montenegro']",country
+Chile,mGy2Lex47M9V3lqIp7bfEw,"['Argentina', 'Bolivia', 'Peru']",country
+Algeria,CAoSLEFGMVFpcE96d1M5aHJqd1R1OU9ZQkg3NXpWeHVBamZOV2NzbVJHcnotQVA4,"['Morocco', 'Tunisia', 'Libya']",country
+Canada,JZ1ca1lxreb_Rwn7tdjs5A,"['USA', 'Greenland', 'Russia']",country
+Bangladesh,uRIQRBF_nLI2JZRyYSxPHw,"['India', 'Myanmar', 'Nepal']",country
+Senegal,CbPnerLrVayMuCEX_l5YLw,"['Mauritania', 'Mali', 'Guinea']",country
+Indonesia,BlNGUtG8jgTM5a2mmLhlbQ,"['Australia', 'Malaysia', 'Papua New Guinea']",country
+Mexico,UsRhAjtImDtWGemn9t7zxw,"['Belize', 'Guatemala', 'USA']",country
+Argentina,cUmhkmkzxVY3OMibQBtVjw,"['Chile', 'Paraguay', 'Bolivia']",country
+Austria,xMVI095VXxqj7agl0yIFNA,"['Germany', 'Slovakia', 'Czech Republic']",country
+Russia,F9NtzfDXWW_l2rywWcRnZQ,"['Mongolia', 'China', 'Kazakhstan']",country
+Albania,6i3i5rNVrDaRX53zPn50Zg,"['North Macedonia', 'Montenegro', 'Kosovo']",country
+Kyrgyzstan,tR7mrmcL-ZPmCLXXAUoCyA,"['Kazakhstan', 'China', 'Tajikistan']",country
+Nicaragua,CAoSLEFGMVFpcE93LTJoeGpPN0tfVGdEczNuQ2lPTjhIb1VGX3g1elhNQ3lQRW1D,"['Costa Rica', 'Honduras', 'El Salvador']",country
+Mongolia,OaAYXSpswo4DAPh5SkmICQ,"['Kazakhstan', 'Russia', 'China']",country
+Zambia,CAoSLEFGMVFpcE10V3pVOHYzSXkwVEZGd0twV2lSVnNGTHNkcGFKaXREMzZMN24y,"['Democratic Republic of Congo', 'Tanzania', 'Angola']",country
+Colombia,iRiSheJlqea1R9w5irrxiQ,"['Venezuela', 'Brazil', 'Peru']",country
+Belgium,qRZZfM-BvTd5xQ3USnof_w,"['France', 'Germany', 'Netherlands']",country
+Panama,CAoSLEFGMVFpcE5fTnhSYXp5cGE5WDdJeXFMTzcyaDBLbGdZS0lrSHNJVGNtZW1Q,"['Nicaragua', 'Colombia', 'Costa Rica']",country
+Senegal,ltwGQGGXvfxyvsBU46mzsQ,"['Mali', 'Guinea', 'Mauritania']",country
+Israel,yX3j58rVAvFcrcjcIZ0fKA,"['Palestine', 'Jordan', 'Lebanon']",country
+Senegal,O9MK_E6EigoRI_Nr6IJ1zg,"['Mauritania', 'Guinea', 'Mali']",country
+Ukraine,fnDwGl0ZRp7moGA8FyuBVA,"['Russia', 'Belarus', 'Poland']",country
+Bolivia,fMLnuQU7lMaKLZ9Jpn-YEg,"['Brazil', 'Peru', 'Chile']",country
+Canada,UuGe-UJ5x3K2nwl_NoOXvA,"['Greenland', 'USA', 'Russia']",country
+Palestine,1Ud90oDRysWCCHP1fV9SBw,"['Israel', 'Jordan', 'Egypt']",country
+Canada,yplfowWqinsV0n4L2xdhtQ,"['Greenland', 'Russia', 'USA']",country
+South Africa,uL1DlF3FLhG2L1zNR0R9eQ,"['Namibia', 'Botswana', 'Zimbabwe']",country
+Qatar,n-1zYu9fTLtMZWKGUcAw0g,"['Saudi Arabia', 'UAE', 'Bahrain']",country
+Argentina,QoWtx93mz7dUmGqtpwVVqg,"['Paraguay', 'Bolivia', 'Chile']",country
+Senegal,BzAE6uVWMlEKqWF7Jju9Qg,"['Guinea', 'Mauritania', 'Mali']",country
+Lesotho,1rdQwvT9DqXiV8Izkb8P7Q,"['Botswana', 'South Africa', 'Eswatini']",country
+Sweden,PQXIKhLVplzMV37YBBlbvw,"['Norway', 'Finland', 'Denmark']",country
+China,ugImIYr1vOsekpS3c5U0HA,"['Russia', 'Kazakhstan', 'India']",country
+Bulgaria,4jurfN8QYCL-j12uAC5lmA,"['Serbia', 'North Macedonia', 'Romania']",country
+Canada,gG4oo8p-ZrP_7ioKqDlU9g,"['Greenland', 'USA', 'Russia']",country
+Chile,GPLeGUtcVFXFEPc-Fmxfng,"['Peru', 'Bolivia', 'Argentina']",country
+Ukraine,k3_5B4RskHz9OIOFnWL0iA,"['Russia', 'Belarus', 'Poland']",country
+Ireland,nqkzAZndmmX1_26MrddJqw,"['United Kingdom', 'France', 'Iceland']",country
+Russia,o4S5ORBbuSGKqyO0uRSv3Q,"['China', 'Mongolia', 'Kazakhstan']",country
+Greece,S-1CzP10sl3AhNA-lcZwBA,"['Bulgaria', 'Albania', 'North Macedonia']",country
+Senegal,90FYGc9yWHjTnvYfuUWvHQ,"['Mauritania', 'Mali', 'Guinea']",country
+Sweden,XzQ9d0oWrHspstJeE0xZAA,"['Denmark', 'Norway', 'Finland']",country
+China,N7O7Eb6knP7wkL8yGi6fiw,"['India', 'Russia', 'Kazakhstan']",country
+Kenya,NQqjFUWqyTT9kqMYaB8rFQ,"['Tanzania', 'Ethiopia', 'Somalia']",country
+Sri Lanka,zkhRy7uT8Mv6bVag53q1Wg,"['Bangladesh', 'Maldives', 'India']",country
+Kyrgyzstan,ou_Wxb6S4Ia0EvDYdPvvpA,"['Tajikistan', 'China', 'Kazakhstan']",country
+Philippines,cTFwYsqqBSPJtWhC_IshzQ,"['Malaysia', 'Indonesia', 'Palau']",country
+Ukraine,NjUnbSm58NJK8WBfwZjXyw,"['Belarus', 'Poland', 'Russia']",country
+Tunisia,92HXhx2UnftppsmxD_PfZw,"['Algeria', 'Libya', 'Italy']",country
+Argentina,mJNg2CLpADPItxIsT3B9CQ,"['Chile', 'Bolivia', 'Paraguay']",country
+Bolivia,SMpOjihIZg01rd0j5u_2Pg,"['Brazil', 'Peru', 'Chile']",country
+Ghana,joN1H6uLv0EKg1PqrQcYBA,"[""Côte d'Ivoire"", 'Burkina Faso', 'Togo']",country
+China,yRTWe2DY2xeEJHGJjrubmA,"['Kazakhstan', 'India', 'Russia']",country
+Sri Lanka,O-qvoTIJ5N96GW-le-Ewhg,"['Bangladesh', 'Maldives', 'India']",country
+Guatemala,qSuoAtKlH5QQaQUg6OYZcg,"['Belize', 'Mexico', 'El Salvador']",country
